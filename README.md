@@ -16,6 +16,11 @@ You can install these dependencies using pip:
 pip install pandas numpy scipy matplotlib getFamaFrenchFactors statsmodels
 ```
 
+## Data Source
+The data for this project is sourced from the "Tickers" file, which specifies the tickers of the 50 stocks required for your assignment number. The data includes monthly Book-to-Market data and monthly prices for these stocks. The file path to the data is provided in the setup section of this README.
+
+Please ensure you have access to the necessary data file to run the project successfully. You can adjust the file path as needed to match your data location.
+
 ## Setup Data
 To get started, you'll need access to the necessary data. We'll be using Google Colab for this project.
 The first time you run the notebook you should access the following link: https://drive.google.com/drive/folders/1kKzxa0I3u4rPnCKiW2xB79Z0ls2k02Jh?usp=sharing and select the "Add Shortcut to Drive". This will add a shortcut to the datasets to your Google Drive.
@@ -34,3 +39,5 @@ You can now simply import the data with pandas:
 data = pd.read_csv(data_16)
 ```
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
