@@ -39,5 +39,5 @@ You can now simply import the data with pandas:
 data = pd.read_csv(data_16)
 ```
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
