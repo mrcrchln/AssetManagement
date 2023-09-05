@@ -1,6 +1,6 @@
 # AssetManagement
 Asset Management 2023 - T4
-Welcome to the GitHub repository for the Asset Management project for the year 2023 Term 4 (T4). This project involves the analysis of financial data and the creation of various portfolios to explore investment strategies. In this README, you will find instructions on how to set up and run the project, as well as an overview of the tasks and code snippets used in the analysis.
+Welcome to the GitHub repository for the Asset Management project for the year 2023 Term 4 (T4). This project involves the analysis of financial data and the creation of various portfolios to explore investment strategies. In this README, you will find instructions on how to set up and run the project.
 
 ## Before you start, ensure you have the following dependencies installed:
 
